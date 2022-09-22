@@ -1,0 +1,61 @@
+﻿<Window x:Class="HshlomResturant.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HshlomResturant"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="867.2" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+
+        <Grid x:Name="Options1" Margin="0,0,673.8,0" >
+            <Grid.Background>
+                <ImageBrush ImageSource="white1.jpg"/>
+            </Grid.Background>
+
+            <ListView x:Name="UserOptions" Background="#FF7F8386" Margin="0,56,0,202" SelectionChanged="UserOptions_SelectionChanged" SelectedIndex="0">
+
+                <ListViewItem  Background="AliceBlue">
+                    <StackPanel>
+                        <TextBlock Text="" HorizontalAlignment="Center" Margin="10"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Darea"  Background="AliceBlue">
+                    <StackPanel>
+                        <TextBlock Text="Dining area" HorizontalAlignment="Center" Margin="10" FontFamily="MV Boli"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem  Background="AliceBlue">
+                    <StackPanel>
+                        <TextBlock Text="Management" HorizontalAlignment="Center" Margin="10" FontFamily="MV Boli"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem  Background="AliceBlue">
+                    <StackPanel>
+                        <TextBlock Text="Menu" HorizontalAlignment="Center" Margin="10" FontFamily="MV Boli"/>
+                    </StackPanel>
+                </ListViewItem>
+
+
+            </ListView>
+            <Grid>
+                <Button x:Name="Lout" Margin="0,358,146.2,0" Click="Lout_Click" Background="#FFFAFAFA" >
+                    <materialDesign:PackIcon Kind="Logout"/>
+                </Button>
+            </Grid>
+            <Grid>
+                <Button x:Name="Lin" Margin="146,358,0.2,0" Click="Lin_Click" Background="#FFFAFAFA" >
+                    <materialDesign:PackIcon Kind="User"/>
+                </Button>
+            </Grid>
+        </Grid>
+        <Grid Margin="192,10,9.8,0">
+            <Grid x:Name="Options2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+        <TextBlock x:Name="OnLineText" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="24,282,0,0" Height="17" Width="145" Loaded="MainLoad_Load" Foreground="#FF0EEE0E" FontFamily="MV Boli"/>
+        <TextBlock x:Name="OffLineText" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="24,282,0,0" Height="17" Width="145" Loaded="MainLoad_Load" Foreground="#FFB64242" FontFamily="MV Boli"/>
+
+    </Grid>
+</Window>

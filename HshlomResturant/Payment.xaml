@@ -1,0 +1,35 @@
+﻿<Window x:Class="HshlomResturant.Payment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HshlomResturant"
+        mc:Ignorable="d"
+        Title="Payment" Height="350" Width="230">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="white1.jpg"/>
+        </Grid.Background>
+        <GroupBox>
+            <StackPanel>
+                <WrapPanel Margin="10">
+                    <Label Content="Payment type :"/>
+                    <ComboBox x:Name="ComboB" Width="100" SelectionChanged="ComboB_SelectionChanged" Background="#FFD1CECE">
+                        <ComboBoxItem x:Name="c1" Content="Cash"/>
+                        <ComboBoxItem x:Name="c2" Content="Credit card"/>
+                    </ComboBox>
+                </WrapPanel>
+                <WrapPanel Margin="10">
+                    <Label Content="Card No:"/>
+                    <TextBox x:Name="tx1" Width="130" Background="#FFD1CECE"/>
+                </WrapPanel>
+                <WrapPanel Margin="10">
+                    <Label Content="Total to pay :"/>
+                    <TextBox x:Name="Xpay" Text="" Width="100" Background="#FFD1CECE"/>
+                </WrapPanel>
+                <Button x:Name="Bpay" Content="pay" Width="140" Margin="24" Click="Bpay_Click" Background="#FFD1CECE"/>
+            </StackPanel>
+        </GroupBox>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,195 @@
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\HshlomResturant.exe.config
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\MainWindow.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\App.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.cache
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.lref
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\MainWindow.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.g.resources
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.Properties.Resources.resources
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csproj.GenerateResource.cache
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Management.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Management.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Table.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Table.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignColors.dll
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignColors.pdb
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csproj.CopyComplete
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Window1.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Window1.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\TablesMaps.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\TablesMaps.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Menu.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\Menu.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\ManagerScreen.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\ManagerScreen.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\PassManager.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\PassManager.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\EmployeesShow.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\EmployeesShow.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\EmployeesListTable.g.cs
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\EmployeesListTable.baml
+C:\Users\UPDATE\Desktop\פרויקט מתמ\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csprojAssemblyReference.cache
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\HshlomResturant.exe.config
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignColors.dll
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignColors.pdb
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\EmployeesShow.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\EmployeesListTable.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\MainWindow.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Management.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Menu.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\PassManager.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Table.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\TablesMaps.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\ManagerScreen.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Window1.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\App.g.cs
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.cache
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.lref
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\EmployeesShow.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\EmployeesListTable.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\MainWindow.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Management.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Menu.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\PassManager.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Table.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\TablesMaps.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\ManagerScreen.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\Window1.baml
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.g.resources
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.Properties.Resources.resources
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csproj.GenerateResource.cache
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csproj.CopyComplete
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\HshlomResturant\HshlomResturant\obj\Debug\HshlomResturant.csprojAssemblyReference.cache
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\HshlomResturant.exe.config
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\MaterialDesignColors.dll
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\MaterialDesignColors.pdb
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\EmployeesShow.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\EmployeesListTable.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\MainWindow.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Management.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Menu.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\PassManager.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Table.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\TablesMaps.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Window1.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\App.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.cache
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.lref
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\EmployeesShow.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\EmployeesListTable.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\MainWindow.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Management.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Menu.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\PassManager.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Table.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\TablesMaps.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Window1.baml
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.g.resources
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.Properties.Resources.resources
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.csproj.GenerateResource.cache
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.csproj.CopyComplete
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\HshlomResturant.csprojAssemblyReference.cache
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Payment.g.cs
+C:\Users\UPDATE\Desktop\ab\HshlomResturant\obj\Debug\Payment.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\HshlomResturant.exe.config
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\HshlomResturant.pdb
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignColors.dll
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignColors.pdb
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csprojAssemblyReference.cache
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesShow.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesListTable.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\MainWindow.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Management.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Menu.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\PassManager.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Payment.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Table.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\TablesMaps.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Window1.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\App.g.cs
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.cache
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.lref
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesShow.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesListTable.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\MainWindow.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Management.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Menu.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\PassManager.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Payment.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Table.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\TablesMaps.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\Window1.baml
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.g.resources
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.Properties.Resources.resources
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csproj.GenerateResource.cache
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csproj.CopyComplete
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.exe
+C:\Users\UPDATE\Desktop\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.pdb
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\HshlomResturant.exe.config
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\HshlomResturant.exe
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\HshlomResturant.pdb
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesShow.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesListTable.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Management.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Menu.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\PassManager.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Payment.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Table.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\TablesMaps.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Window1.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.cache
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant_MarkupCompile.lref
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesShow.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\EmployeesListTable.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Management.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Menu.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\PassManager.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Payment.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Table.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\TablesMaps.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\Window1.baml
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.g.resources
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.Properties.Resources.resources
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.csproj.CopyComplete
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.exe
+C:\Users\lenovo\Desktop\פרויקט c#\פרויקט c#\מסעדת השלום\HshlomResturant\obj\Debug\HshlomResturant.pdb

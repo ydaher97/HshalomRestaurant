@@ -1,0 +1,4 @@
+yahia,123456789,bada@gmail.com,0526778671,chef
+ibrahem,987654321,fss@gmail.com,0256778591,manager
+jorjet,123123456,jo@hotmail.com,0521118976,waiter
+yazed,112233445,ya@hotmail.com,0521122333,waiter

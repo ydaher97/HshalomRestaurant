@@ -1,0 +1,23 @@
+﻿<Window x:Class="HshlomResturant.LoginDays"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HshlomResturant"
+        mc:Ignorable="d"
+        Title="LoginDays" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="LDays">
+            <DataGrid.Columns>
+                <DataGridTextColumn/>
+                <DataGridTextColumn x:Name="NameD" Header="Name" Binding="{Binding Name}"/> 
+                <DataGridTextColumn x:Name="IdD" Header="ID" Binding="{Binding ID}"/>
+                <DataGridTextColumn x:Name="DateN" Header="Date"/>
+                <DataGridTextColumn Header="Log in time"/>
+                <DataGridTextColumn Header="Log out time"/>
+            </DataGrid.Columns>
+            
+        </DataGrid> 
+    </Grid>
+    
+</Window>
